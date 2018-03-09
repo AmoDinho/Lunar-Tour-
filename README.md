@@ -23,3 +23,14 @@ $ npm install
 $ npm start 
 
 ``` 
+
+## Recap of what key concepts in Bootstap you will learn:
+
+* Cards
+* Media Queries
+* Modals
+* Accordians
+* Padigination
+* Forms
+* Alerts
+* Tables
